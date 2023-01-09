@@ -16,3 +16,4 @@
 
 # Блок-схема алгоритма:
 ![ ](Кр.jpg) 
+![Кр](https://user-images.githubusercontent.com/119442549/211343008-774777c5-5c6b-407c-a01c-0241afe2d4c2.jpg)
